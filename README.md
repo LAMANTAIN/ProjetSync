@@ -1,4 +1,4 @@
-# project-management-system
+# ProjetSync
 
 Ce projet est un système de gestion de projets permettant de planifier, suivre et organiser les tâches d'une équipe. Il propose des fonctionnalités telles que la création de projets, l'attribution de tâches, la gestion des utilisateurs et le suivi de l'avancement. L'objectif est de faciliter la collaboration et d'améliorer la productivité au sein des équipes.
 
